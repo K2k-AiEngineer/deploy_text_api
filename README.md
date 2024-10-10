@@ -62,6 +62,7 @@ This project is licensed under the MIT License.
 
 ## 🔗 Render Testing URL
 You can test the live API here: Vegan Classification API.
+https://vegan-text-api.onrender.com/classify
 
    
 
