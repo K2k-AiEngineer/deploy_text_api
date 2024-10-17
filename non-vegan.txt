@@ -222,6 +222,7 @@ cheese
 butter
 egg
 paneer
+panner
 cow meat
 goat meat
 goat milk
@@ -236,164 +237,164 @@ Donkey Milk
 Horse milk
 lamb
 bacon
-Gelatin
-Lard
-Casein
-Whey
-Shellac
-Rennet
-Tallow
-Lanolin
-Beeswax
-Carmine
-Isinglass
-Anchovy Paste
-Cod Liver Oil
-Egg Albumen
-Fish Sauce
-Shrimp Paste
-Bone Char
-Cochineal
-Collagen
-Keratin
-Lactose
-Meat Broth
-Pork Fat
-Suet
-Fish Gelatin
-Chicken Fat
-Beef Broth
-Fish Oil
-Honey
-Pepsin
-Mink Oil
-Spermaceti
-Omega-3 Fatty Acids (from fish)
-Natural Red Dye (from insects)
-Animal-Derived Lecithin
-Chicken Broth
-Bone Broth
-Emu Oil
-Caviar
-Sardine Paste
-Goose Fat
-Crustacean Shell Extracts
-Fish Roe
-Pork Gelatin
-Shrimp Extract
-Squalene (from sharks)
-Butter
-Clotted Cream
-Clarified Butter (Ghee)
-Duck Fat
-Egg Yolk
-Anchovies
-Clam Juice
-Crab Extract
-Lobster Extract
-Octopus Extract
-Squid Ink
-Roe (Fish Eggs)
-Chicken Gelatin
-Lamb Fat
-Meat Stock
-Eel Sauce
-Shellfish Extract
-Fish Stock
-Bacon Grease
-Pork Cracklings
-Veal Stock
-Sausage Casing
-Pancetta
-Prosciutto
-Salami
-Chorizo
-Black Pudding
-Blood Sausage
-Duck Liver (Foie Gras)
-Pâté
-Escargot
-Frog Legs
-Calf’s Liver
-Sweetbreads
-Ox Tongue
-Tripe
-Kidney
-Heart
-Brain
-Chicken Gizzards
-Duck Tongue
-Chicken Feet
-Ham Hock
-Pork Rind
-Rabbit Meat
-Venison
-Wild Boar
-Ostrich Meat
-Quail
-Squab
-Mayonnaise
-Cheese
-Cream Cheese
-Parmesan
-Cheddar
-Mozzarella
-Ricotta
-Brie
-Feta
-Gorgonzola
-Gouda
-Havarti
-Swiss Cheese
-Camembert
-Bleu Cheese
-Asiago
-Colby
-Provolone
-Paneer
-Mascarpone
-Sour Cream
-Whipped Cream
-Heavy Cream
-Butter
-Clarified Butter (Ghee)
-Buttermilk
-Clotted Cream
-Yogurt
-Greek Yogurt
-Kefir
-Custard
-Ice Cream
-Sherbet
-Milk Chocolate
-White Chocolate
-Eggnog
-Hollandaise Sauce
-Tartar Sauce
-Caesar Dressing
-Ranch Dressing
-Thousand Island Dressing
-French Dressing
-Creamy Italian Dressing
-Blue Cheese Dressing
-Bearnaise Sauce
-Alfredo Sauce
-Béchamel Sauce
-Mornay Sauce
-Carbonara Sauce
-Aioli
-Pesto (with Parmesan)
-Meat Sauce
-Cheese Sauce
-Queso
-Nacho Cheese
-Fondue
-Crème Fraîche
-Panna Cotta
-Flan
-Tiramisu (with mascarpone)
-Cheesecake
-Chocolate Mousse (with cream)
+gelatin
+lard
+casein
+whey
+shellac
+rennet
+tallow
+lanolin
+beeswax
+carmine
+isinglass
+anchovy paste
+cod liver oil
+egg albumen
+fish sauce
+shrimp paste
+bone char
+cochineal
+collagen
+keratin
+lactose
+meat broth
+pork fat
+suet
+fish gelatin
+chicken fat
+beef broth
+fish oil
+honey
+pepsin
+mink oil
+spermaceti
+omega-3 fatty acids (from fish)
+natural red dye (from insects)
+animal-derived lecithin
+chicken broth
+bone broth
+emu oil
+caviar
+sardine paste
+goose fat
+crustacean shell extracts
+fish roe
+pork gelatin
+shrimp extract
+squalene (from sharks)
+butter
+clotted cream
+clarified butter (ghee)
+duck fat
+egg yolk
+anchovies
+clam juice
+crab extract
+lobster extract
+octopus extract
+squid ink
+roe (fish eggs)
+chicken gelatin
+lamb fat
+meat stock
+eel sauce
+shellfish extract
+fish stock
+bacon grease
+pork cracklings
+veal stock
+sausage casing
+pancetta
+prosciutto
+salami
+chorizo
+black pudding
+blood sausage
+duck liver (foie gras)
+pâté
+escargot
+frog legs
+calf’s liver
+sweetbreads
+ox tongue
+tripe
+kidney
+heart
+brain
+chicken gizzards
+duck tongue
+chicken feet
+ham hock
+pork rind
+rabbit meat
+venison
+wild boar
+ostrich meat
+quail
+squab
+mayonnaise
+cheese
+cream cheese
+parmesan
+cheddar
+mozzarella
+ricotta
+brie
+feta
+gorgonzola
+gouda
+havarti
+swiss cheese
+camembert
+bleu cheese
+asiago
+colby
+provolone
+paneer
+mascarpone
+sour cream
+whipped cream
+heavy cream
+butter
+clarified butter (ghee)
+buttermilk
+clotted cream
+yogurt
+greek yogurt
+kefir
+custard
+ice cream
+sherbet
+milk chocolate
+white chocolate
+eggnog
+hollandaise sauce
+tartar sauce
+caesar dressing
+ranch dressing
+thousand island dressing
+french dressing
+creamy italian dressing
+blue cheese dressing
+bearnaise sauce
+alfredo sauce
+béchamel sauce
+mornay sauce
+carbonara sauce
+aioli
+pesto (with parmesan)
+meat sauce
+cheese sauce
+queso
+nacho cheese
+fondue
+crème fraîche
+panna cotta
+flan
+tiramisu (with mascarpone)
+cheesecake
+chocolate mousse (with cream)
 Éclairs (with dairy filling)
 Cream Puffs
 Cannoli (with ricotta filling)
@@ -584,56 +585,56 @@ pork chops
 turkey bacon
 beef tacos
 grilled shrimp
-Whey protein powder
-Casein protein
-Cow's milk
-Goat cheese
-Feta cheese
-Parmesan cheese
-Mozzarella cheese
-Eggs
-Honey
-Gelatin
-Fish sauce
-Anchovies
-Chicken broth
-Beef broth
-Cream (heavy cream, sour cream)
-Butter
-Lard
-Bacon bits
-Sausage
-Ham
+whey protein powder
+casein protein
+cow's milk
+goat cheese
+feta cheese
+parmesan cheese
+mozzarella cheese
+eggs
+honey
+gelatin
+fish sauce
+anchovies
+chicken broth
+beef broth
+cream (heavy cream, sour cream)
+butter
+lard
+bacon bits
+sausage
+ham
 Grilled chicken
-Salmon
-Tuna
-Shrimp
-Crab meat
-Lobster
-Duck
-Venison
-Caviar
-Quail eggs
-Milk chocolate
-Yogurt (dairy-based)
-Ice cream (dairy-based)
-Buttermilk
-Custard
-Pâté
-Bangers (pork sausages)
-Beef jerky
-Chicken nuggets
-Corned beef
-Clams
-Mussels
-Octopus
-Rennet (used in cheese-making)
-Pancetta
-Prosciutto
-Sriracha sauce (with anchovies)
-Worcestershire sauce (with anchovies)
-Marshmallows (with gelatin)
-Bakery items (made with eggs and dairy)
+salmon
+tuna
+shrimp
+crab meat
+lobster
+duck
+venison
+caviar
+quail eggs
+milk chocolate
+yogurt (dairy-based)
+ice cream (dairy-based)
+buttermilk
+custard
+pâté
+bangers (pork sausages)
+beef jerky
+chicken nuggets
+corned beef
+clams
+mussels
+octopus
+rennet (used in cheese-making)
+pancetta
+prosciutto
+sriracha sauce (with anchovies)
+worcestershire sauce (with anchovies)
+marshmallows (with gelatin)
+bakery items (made with eggs and dairy)
 Greek yogurt
 grilled chicken
 eggs
@@ -642,4 +643,305 @@ protein
 honey
 protein powder
 yogurt
-Grilled chicken strips
+grilled chicken strips
+beef liver
+sweetbreads (thymus or pancreas)
+oxtail
+lamb kidneys
+goose liver pâté
+duck eggs
+squab
+rabbit liver
+pork belly
+beef tongue
+veal shanks
+horse meat
+bison steak
+elk steak
+mutton
+lardons
+game birds (pheasant, quail)
+salami (different varieties)
+chorizo (spicy sausage)
+capicola
+smoked trout
+cuttlefish
+menhaden (fish oil)
+cod liver
+fish roe (other types)
+caviar (different varieties)
+fish meal
+fish paste (other varieties)
+crab paste
+duck fat
+tallow (rendered beef fat)
+squeezed fish (used in sauces)
+pork stock
+lamb stock
+blood pudding
+anchovy oil
+fish gelatin (from different fish)
+duck broth
+fish heads (used for broth)
+smoked eel
+beef tallow
+borscht (with meat broth)
+sausage casings
+horse broth
+mincemeat (with animal fat)
+shrimp shell stock
+crab stock
+ox tongue
+wild boar meat
+dried fish (such as herring or cod)
+beef liver
+chicken liver
+chicken skin
+pork sausage
+duck eggs
+veal chops
+beef heart
+lamb shanks
+duck breast
+fish roe
+caviar
+clam meat
+crab legs
+octopus ink
+fish roe (salmon eggs)
+crab meat
+blue crab
+mackerel
+swordfish
+cod
+halibut
+catfish
+goat meat (chevon)
+oxtail
+beef short ribs
+corned beef hash
+jowl (pork cheek)
+hot sausage
+liverwurst
+black-eyed peas (cooked with ham hocks)
+chowder (clam chowder)
+gravy (meat-based)
+bouillon cubes (chicken or beef)
+beef tongue
+foie gras (duck liver)
+sweetbreads (thymus or pancreas)
+tripe (stomach lining)
+ham hock
+canned salmon
+gravy (made with meat drippings)
+beef tallow (rendered fat)
+corned beef
+fish emulsion (fertilizer from fish)
+gelato (with dairy)
+béchamel sauce (with butter and milk)
+crème fraîche (with cream)
+sour cream (with cream)
+egg noodles
+pasta (made with egg)
+meat extract (concentrated meat stock)
+chicken breasts
+beef steak
+pork chops
+ground beef
+bacon
+salmon fillets
+shrimp
+lobster
+scallops
+tuna (canned)
+anchovies
+sardines
+clams
+oysters
+mussels
+crayfish
+mackerel
+herring
+cod liver oil
+duck meat
+turkey
+venison
+goat cheese
+cheddar cheese
+mozzarella cheese
+parmesan cheese
+feta cheese
+blue cheese
+ricotta cheese
+gorgonzola cheese
+brie cheese
+cream cheese
+cottage cheese
+sour cream
+greek yogurt
+heavy cream
+buttermilk
+cow's milk
+goat's milk
+sheep's milk
+egg whites
+whole eggs
+egg yolks
+quail eggs
+caviar (fish eggs)
+fish sauce
+worcestershire sauce (contains anchovies)
+beef broth
+chicken broth
+ham
+corned beef
+liver (beef or chicken)
+sweetbreads (thymus or pancreas)
+tripe (stomach lining)
+beef jerky
+chicken nuggets
+hot dogs
+pepperoni
+salami
+prosciutto
+bologna
+liver pâté
+foie gras
+beef tallow
+pork lard
+fish oil
+gelatin (from animal collagen)
+marshmallows (with gelatin)
+aspic (gelatin made from meat stock)
+stock (made from bones)
+ghee (clarified butter)
+duck fat
+sausage (pork or beef)
+fowl (game birds like pheasant)
+capers (pickled flower buds often preserved in brine)
+shrimp paste
+confit (meat preserved in fat)
+charcuterie (cured meats)
+taramasalata (with fish roe)
+spam
+chorizo
+pâté
+fish roe
+crab cakes
+calamari (fried squid)
+squid ink
+tempura (with seafood)
+boudin blanc (white sausage)
+black pudding (blood sausage)
+lox (smoked salmon)
+fish sticks
+crab salad
+clam chowder
+lobster bisque
+egg drop soup (with eggs)
+ham salad
+chicken salad (with chicken)
+shrimp cocktail
+salmon mousse
+tuna salad
+beef brisket
+pork belly
+lamb chops
+ribeye steak
+sirloin steak
+tenderloin
+ground turkey
+whole chicken
+chicken thighs
+chicken wings
+cornish hen
+rabbit meat
+bison steak
+duck breast
+pheasant
+quail
+goose
+elk meat
+veal
+oxtail
+beef shank
+pork shoulder
+ham hocks
+pork ribs
+beef flank
+beef heart
+pork liver
+chicken liver
+beef kidney
+duck eggs
+goose eggs
+quail eggs
+cream (from cow's milk)
+ice cream (made with milk and cream)
+milk powder (from cows)
+milk solids (from cows)
+milkfat (from cows)
+butter (from cows)
+margarine (some types contain animal fats)
+lard (from pigs)
+fish roe (caviar)
+crab meat
+lobster meat
+scallops (meat)
+fish fillets (various types)
+anchovy paste
+mackerel (fillets)
+swordfish (steaks)
+clams (chopped)
+oyster meat
+mahi-mahi (fish)
+sole (fish)
+cod (fish)
+catfish
+halibut
+bass (fish)
+sardines (canned)
+eel
+herring (fillets)
+tuna (fresh or canned)
+shrimp (peeled or unpeeled)
+octopus
+squid (for calamari)
+pork sausages (various types)
+beef sausages
+hot italian sausage
+bratwurst (pork)
+chorizo (spicy sausage)
+kielbasa (polish sausage)
+boudin (blood sausage)
+salami (cured meat)
+pepperoni
+prosciutto (cured ham)
+bologna (cooked sausage)
+liverwurst (liver sausage)
+head cheese (gelatin made from meat)
+beef jerky
+chicken tenders
+fish sticks
+clam chowder (with clam broth)
+chicken soup (with broth)
+bone broth
+beef broth
+chicken broth
+fish stock
+gelatin (from animal collagen)
+aspic (meat jelly)
+confit (meat cooked slowly in its fat)
+oysters rockefeller (with bacon)
+beef tallow
+chicken fat (schmaltz)
+pork cracklings (pork rinds)
+scrapple (pork)
+tamales (with meat)
+beef stew
+chicken curry
+shrimp fried rice
+crab cakes
+tuna salad
+fish curry
+
